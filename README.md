@@ -3,7 +3,16 @@
 ### Setup
 ` Clone proj`
 
-`npm install`
+**Install the dependencies...**
+```
+npm install
+```
 
-`npm run dev` 
-# frontend
+
+**...then start Rollup:**
+```
+npm run dev
+``` 
+
+
+Navigate to localhost:5000. You should see your app running.
