@@ -1,18 +1,2 @@
-# Svelte + Tailwind + Router
-
-### Setup
-` Clone proj`
-
-**Install the dependencies...**
-```
-npm install
-```
-
-
-**...then start Rollup:**
-```
-npm run dev
-``` 
-
-
-Navigate to localhost:5000. You should see your app running.
+Video Demo:
+https://github.com/4Coders-BuildwithAi/read-easy-frontend/raw/main/BuildWithAi%202021%20-%20ReadEasy%20-%202nd%20Place%20-%20Team%20Undercover.mp4
